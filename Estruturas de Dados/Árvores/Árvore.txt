@@ -1,0 +1,10 @@
+### Árvores
+
+## Organizam os dados de maneira hierárquica
+# Facilita a busca
+# Raíz
+Todos os dados derivam deste dado
+Se encontra no topo
+# Nós e folhas
+Dados derivados da raíz
+Se encontram nas extremidades

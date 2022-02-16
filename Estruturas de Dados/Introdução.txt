@@ -1,0 +1,27 @@
+### Estruturas de dados
+
+#Formas de se organizar os dados na memória
+
+São utilizadas em tarefas específicas
+
+Armazenam uma grande quantidade de dados
+
+##Principais Estruturas de Dados
+
+Vetores(array)
+
+Matrizes(array)
+
+Registros
+
+Listas
+
+Pilhas
+
+Filas
+
+Árvores
+
+Tabelas Hash
+
+Grafos

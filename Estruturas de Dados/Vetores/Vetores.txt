@@ -1,0 +1,4 @@
+### Vetores
+
+# Armazena várias variáveis de um mesmo tipo
+# Armazena uma quantidade previamente determinada

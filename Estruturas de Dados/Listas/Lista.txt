@@ -1,0 +1,11 @@
+### Listas
+
+## Armazenam dados com uma ordem específica
+
+# Possuem tamanho ajustável
+
+## Podem ser Ligadas ou Duplamente Ligadas
+# Ligadas
+Os nós conhecem seu elemento e seu próximo elemento
+# Duplamente Ligadas
+Nós são bidirecionais

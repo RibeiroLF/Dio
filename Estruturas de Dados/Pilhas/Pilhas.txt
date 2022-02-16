@@ -1,0 +1,23 @@
+### Pilhas(stacks)
+
+##Coleção de dados
+
+## Acesso restrito à um dado por vez
+## FIFO
+# FIRST IN FIRST OUT
+Primeiro dado colocado é o primeiro a sair
+## LIFO
+# LAST IN FIRST OUT
+Último dado colocado é o primeiro a sair
+
+## Push
+Coloca
+
+## Pop
+Retira
+
+## Enqueue
+Adiciona à "fila"
+
+## Dequeue
+Remove da "fila"

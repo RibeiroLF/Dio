@@ -1,0 +1,9 @@
+### Algoritmos
+
+## Utilizados para: 
+
+# Manipular/inserir/remover dados
+
+# Localizar/visualizar um elemento
+
+# Classificar um elemento/dado

@@ -1,0 +1,8 @@
+### Registros
+
+## Especializado em armazenar dados
+# Armazena mais de um tipo de dado
+
+## Campos especificam o registro
+# O operador (.) acessa o campo
+ 

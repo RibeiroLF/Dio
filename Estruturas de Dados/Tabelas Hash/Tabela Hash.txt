@@ -1,0 +1,12 @@
+### Tabela Hash
+
+## Espalha os dados e define chaves para cada valor
+
+## Hashing
+Espalhar dados
+
+## Chave
+Parte da informação do dado
+
+## Valor
+Posição do dado
